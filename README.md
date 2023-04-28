@@ -16,8 +16,7 @@ The repository contains:
 
 ## Fonts
 
-- [All Round Gothic](/fonts/all-round-gothic.ttf)
-- [Gothic](/fonts/gothic.woff2)
+- [Fonts](https://use.typekit.net/oca6cen.css)
 
 ## Logos
 
